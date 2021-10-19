@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-compatible" content="lewedge">
+    <<link rel="stylesheet" href="/css/master.css">
+    <title>Position</title>
+  </head>
+  <body>
+    <<div class="top">
+
+    </div>
+    <<div class="mid">
+
+    </div>
+    <<div class="bot">
+
+    </div>
+  </body>
+</html>
